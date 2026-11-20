@@ -5,8 +5,6 @@
 -  Engenharia de Software — Universidade São Judas Tadeu (2026–2030)
 -  Foco em **Java**, **SQL** e **computação em nuvem** (AWS e Azure)
 -  Certificações: IBM watsonx.data Technical Essentials · IBM Data Fabric (Cloud Pak for Data) · Claude Code 101 (Anthropic)
--  Projeto atual: [TaskFlow](https://github.com/fattorelligloria-eng/taskflow) — gerenciador de tarefas em Java + SQLite
--  Aprendendo: Spring Boot, Docker e Kubernetes
 -  Objetivo: estágio em desenvolvimento backend
 
 ## 🇬🇧 About me
